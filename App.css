@@ -1,0 +1,11 @@
+/*Navbar*/
+.navbar-nav a{
+  font-style: 18px;
+}
+/* home */
+.card-title {
+  color: blueviolet;
+}
+.card-text{
+  color: blueviolet;  
+}
